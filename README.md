@@ -1,2 +1,2 @@
 # MyAssignments
-This reposi
+This repository contains solution for coursera assignment1
